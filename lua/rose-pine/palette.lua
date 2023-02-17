@@ -1,11 +1,11 @@
 local variants = {
 	main = {
-		base = '#000000', -- '#191724'
-		surface = '#000000', -- '#1f1d2e'
+		base = '#000000', -- '#191724',
+		surface = '#000000', -- '#1f1d2e',
 		overlay = '#26233a',
 		muted = '#6e6a86',
 		subtle = '#908caa',
-		text = '#FFFFFF' -- '#e0def4',
+		text = '#FFFFFF', -- '#e0def4',
 		love = '#eb6f92',
 		gold = '#f6c177',
 		rose = '#ebbcba',
